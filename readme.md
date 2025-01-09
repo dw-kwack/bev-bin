@@ -5,3 +5,4 @@ front_sementic
 top_img  
 top_sementic  
 ridar
+grid_map
